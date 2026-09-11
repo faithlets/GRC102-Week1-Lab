@@ -1,20 +1,15 @@
-# GRC102 Assignments
-
-This repository contains my GRC102 assignment submissions.
+# GRC102 Week 1 Practical Lab
 
 ## Student Information
+
 - Name: Faith Mathapelo Letsoara
 - Registration Number: C11-26-CGRC-17582
 
-## Assignments
+## Lab Information
 
-### Week 1 Lab
-- File: GRC102_W1_Lab_FaithMathapeloLetsoara.pdf
+This repository contains my submission for the GRC102 Week 1 Practical Lab: Information Security Governance in Action.
 
-### Week 1 Assignment 1
-- File: GRC102_W1_Assignment_FaithMathapeloLetsoara.pdf
+## Repository Contents
 
-## Contents
 - README.md
-- Week 1 PDF submission
-- Week 1 Lab PDF submission
+- GRC102_W1_Lab_FaithMathapeloLetsoara_C11-26-CGRC-17582.pdf
